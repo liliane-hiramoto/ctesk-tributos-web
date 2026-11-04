@@ -1,10 +1,10 @@
 @import "tailwindcss";
 
 :root {
-  /* Paleta neutra (golden-source) — instâncias sobrescrevem a cor */
-  --brand: #334155;
-  --brand-soft: #e2e8f0;
-  --accent: #1ec2df;
+  /* Marca da CTESK (a mesma do Portal CTESK, site cteskadm.com.br) */
+  --brand: #062872;
+  --brand-soft: #e6f3fb;
+  --accent: #0b76a8;
 }
 
 html,
